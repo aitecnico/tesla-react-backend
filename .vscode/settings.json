@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/fb859558-e588-421d-b60a-a6258fd71657/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/teslascmap"
+}
