@@ -3,7 +3,7 @@
 <p align="center" >A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map</p>
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="1000" src="public/teslacapstone.gif" alt="Tesla Gif" align="center">
+  <img width="1000" src="build/teslacapstone.gif" alt="Tesla Gif" align="center">
 <div align="center">
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)  
