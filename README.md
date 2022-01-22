@@ -51,6 +51,13 @@ Start the app:
 ```sh
 $ nodemon app.js
 ```
+  
+On Browser:
+
+```sh
+http://localhost:3000/
+``` 
+  
 
 Idea inspired from:</br>
 https://www.youtube.com/playlist?list=PLO6KswO64zVs3XY63flkObOzMd8MMzXPx
