@@ -35,7 +35,7 @@
   <img width="500" src="build/AtlasPic.png" alt="Atlas Pic" align="center">
 
 ### DEMO</br>
-https://backendtesla1.azurewebsites.net
+https://backendtesla1.azurewebsites.net</br>
 </br>
 ### For developers
 Clone the source locally:
