@@ -21,7 +21,7 @@
 
  
 <div align="left">
-</br>
+
 
 <h2 align="center" style="margin-top: 0px;">API Schema</h2>
 
