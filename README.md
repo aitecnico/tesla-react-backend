@@ -52,7 +52,7 @@ Start the app:
 $ nodemon app.js
 ```
   
-On Browser:
+On browser:
 
 ```sh
 http://localhost:3000/
