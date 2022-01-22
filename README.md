@@ -43,7 +43,6 @@ Clone the source locally:
 $ git clone https://github.com/williamthethird/tesla-react-backend.git
 $ cd tesla-react-backend
 $ npm install 
-$ nodemon app.js
 ```
 
 Start the app:
