@@ -37,7 +37,7 @@
 ### DEMO</br>
 https://backendtesla1.azurewebsites.net</br>
 </br>
-### For developers
+### For Developers
 Clone the source locally:
 
 ```sh
