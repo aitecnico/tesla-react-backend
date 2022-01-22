@@ -40,22 +40,16 @@
 Clone the source locally:
 
 ```sh
-$ git clone https://....git
-$ cd Capstone.....
+$ git clone https://github.com/williamthethird/tesla-react-backend.git
+$ cd tesla-react-backend
+$ npm install 
+$ nodemon app.js
 ```
 
-Install project dependencies:
-
-```sh
-$ 
-$ 
-$ 
-$ 
-```
 Start the app:
 
 ```sh
-$ 
+$ nodemon app.js
 ```
 
 Idea inspired from:</br>
