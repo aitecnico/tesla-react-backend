@@ -1,5 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">Telsa Supercharging Station Map Locator App</h1>
 
+<h2 Overview </h2>
+
 <p align="center" >A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map</p>
 
 <p align="center" style="margin-bottom: 0px !important;">
