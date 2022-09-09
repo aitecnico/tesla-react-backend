@@ -63,8 +63,8 @@ http://localhost:3000/
 ``` 
 
   <h1>Dev Dependencies</h1> 
-  ⋅ React
-  ⋅ React-DOM
+  ⋅ React</br>
+  ⋅ React-DOM</br>
   ⋅ 
   ⋅ 
   
