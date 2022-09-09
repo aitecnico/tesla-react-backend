@@ -38,9 +38,7 @@ Live Link: https://backendtesla1.azurewebsites.net
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="500" src="build/AtlasPic.png" alt="Atlas Pic" align="center">
 
-### DEMO</br>
-https://backendtesla1.azurewebsites.net</br>
-</br>
+
 ### For Developers
 Clone the source locally:
 
