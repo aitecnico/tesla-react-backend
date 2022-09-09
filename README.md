@@ -17,6 +17,8 @@
 
 <div align="center">
 
+<div align="left">  
+  
 <h2> Overview </h2>
 <p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location if it is open to the public. </p> 
 
