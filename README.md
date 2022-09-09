@@ -29,7 +29,7 @@ Live Link: https://backendtesla1.azurewebsites.net
 
 <h2 align="center" style="margin-top: 0px;">API Schema</h2>
 
-<p align="left" style="margin-bottom: 0px !important;">
+<p align="center" style="margin-bottom: 0px !important;">
   <img width="500" src="build/APISchema.png" alt="API Schema" align="center">
 
 </br>
