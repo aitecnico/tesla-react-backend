@@ -10,7 +10,7 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</p>
-<div align="center">
+
 
 <h2> Overview </h2>
 <p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location if it is open to the public. </p> 
