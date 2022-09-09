@@ -3,9 +3,7 @@
 <h2> Overview </h2>
 <p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location to diplay if they are open to the public. </p> 
 
-<h2> Features </h2>
-*
-* A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map
+<h2> Features </h2> * A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map
 
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="1000" src="build/teslacapstone.gif" alt="Tesla Gif" align="center">
