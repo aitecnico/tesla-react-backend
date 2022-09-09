@@ -62,7 +62,7 @@ On browser:
 http://localhost:3000/
 ``` 
 
-  <h1>Dev Dependencies</h> 
+  <h1>Dev Dependencies</h1> 
   
   
   
