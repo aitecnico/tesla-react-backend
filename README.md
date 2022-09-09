@@ -18,7 +18,8 @@ Live Link: https://backendtesla1.azurewebsites.net
   <img width="1000" src="build/teslacapstone.gif" alt="Tesla Gif" align="center">
 <div align="center">
 
-
+</br>
+</br>
 
 
 <div align="center">
