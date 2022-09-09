@@ -1,7 +1,4 @@
 <h1 align="center" style="margin-top: 0px;">Telsa Supercharging Station Map Locator App</h1>
-
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="1000" src="public/teslacapstone.gif" alt="Tesla Gif" align="center">
   
 <h2> Overview </h2>
 <p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location if it is open to the public. </p> 
