@@ -61,7 +61,7 @@ On browser:
 ```sh
 http://localhost:3000/
 ``` 
-
+  </br>
   <h1>Dev Dependencies</h1> 
   ⋅ React</br>
   ⋅ React-DOM</br>
