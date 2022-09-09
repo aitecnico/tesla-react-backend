@@ -68,7 +68,10 @@ http://localhost:3000/
   ⋅ 
   ⋅ 
   
-  <p align="center" style="margin-bottom: 0px !important;">
+  </br>
+  </br>
+  </br>
+  
 
 Idea inspired from:</br>
 https://www.youtube.com/playlist?list=PLO6KswO64zVs3XY63flkObOzMd8MMzXPx
