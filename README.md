@@ -39,6 +39,8 @@ Live Link: https://backendtesla1.azurewebsites.net
   <img width="500" src="build/AtlasPic.png" alt="Atlas Pic" align="center">
 
   </br>
+   </br>
+    </br>
   <h1>Running this project locally</h1>
   
   <h5> From the repo:</h5>  
