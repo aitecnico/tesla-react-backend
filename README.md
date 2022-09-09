@@ -9,7 +9,7 @@ Live Link: https://backendtesla1.azurewebsites.net
 <p align="center" style="margin-bottom: 0px !important;">
 
 <h2> Features </h2> 
-⋅⋅ A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map
+⋅ A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map
 
 
 <p align="center" style="margin-bottom: 0px !important;">
