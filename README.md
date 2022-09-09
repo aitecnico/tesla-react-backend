@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">Telsa Supercharging Station Map Locator App</h1>
   
 <h2> Overview </h2>
-<p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location to diplay if they are open to the public. </p> 
+<p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location to display if they are open to the public. </p> 
 
 
 Live Link: https://backendtesla1.azurewebsites.net
