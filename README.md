@@ -4,9 +4,8 @@
 <p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of the site location to diplay if they are open to the public. </p> 
 
 
-Live Link:</br>
-https://backendtesla1.azurewebsites.net</br>
-</br>
+Live Link: https://backendtesla1.azurewebsites.net
+
 
 
 <h2> Features </h2> * A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map
