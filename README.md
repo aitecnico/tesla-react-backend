@@ -65,8 +65,7 @@ http://localhost:3000/
   <h1>Dev Dependencies</h1> 
   ⋅ React</br>
   ⋅ React-DOM</br>
-  ⋅ 
-  ⋅ 
+  ⋅ React-Leaflet</br>
   
   </br>
   </br>
