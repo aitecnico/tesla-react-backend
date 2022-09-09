@@ -41,7 +41,7 @@ Live Link: https://backendtesla1.azurewebsites.net
 
 
 ### Running this project locally
-Clone the source locally:
+Clone this project locally:
 
 ```sh
 $ git clone https://github.com/williamthethird/tesla-react-backend.git
