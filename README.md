@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">Telsa Supercharging Station Map Locator App</h1>
 
 <h2> Overview </h2>
-<p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the geolocation,  </p> 
+<p> This App was created for my Springboard Capstone project. It pulls data from the MongoDB database where I stored all the names of the sites, geolocation, number of stalls available at each site, and the statues of location if it is open to public. </p> 
 
 <p> align="center" >A Create React App that uses react-leaflet to display Tesla Supercharging Stations on a World Map</p>
 
