@@ -29,11 +29,11 @@ Live Link: https://backendtesla1.azurewebsites.net
 
 <h2 align="center" style="margin-top: 0px;">API Schema</h2>
 
-<p align="right" style="margin-bottom: 0px !important;">
+<p align="left" style="margin-bottom: 0px !important;">
   <img width="500" src="build/APISchema.png" alt="API Schema" align="center">
 
-</br>
-<h2 align="left" style="margin-top: 0px;">API with MongoDB & Atlas cloud service</h2>
+
+<h2 align="right" style="margin-top: 0px;">API with MongoDB & Atlas cloud service</h2>
 
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="500" src="build/AtlasPic.png" alt="Atlas Pic" align="center">
